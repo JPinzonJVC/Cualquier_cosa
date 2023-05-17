@@ -1,0 +1,19 @@
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.csproj.AssemblyReference.cache
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega_Final_ED.Form1.resources
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega_Final_ED.Form2.resources
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.csproj.GenerateResource.cache
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.AssemblyInfoInputs.cache
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.AssemblyInfo.cs
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.csproj.CoreCompileInputs.cache
+F:\Jhoan\programación\Universidad\Entrega Final ED\bin\Debug\net6.0-windows\Entrega Final ED.exe
+F:\Jhoan\programación\Universidad\Entrega Final ED\bin\Debug\net6.0-windows\Entrega Final ED.deps.json
+F:\Jhoan\programación\Universidad\Entrega Final ED\bin\Debug\net6.0-windows\Entrega Final ED.runtimeconfig.json
+F:\Jhoan\programación\Universidad\Entrega Final ED\bin\Debug\net6.0-windows\Entrega Final ED.dll
+F:\Jhoan\programación\Universidad\Entrega Final ED\bin\Debug\net6.0-windows\Entrega Final ED.pdb
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.dll
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\refint\Entrega Final ED.dll
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.pdb
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega Final ED.genruntimeconfig.cache
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\ref\Entrega Final ED.dll
+F:\Jhoan\programación\Universidad\Entrega Final ED\obj\Debug\net6.0-windows\Entrega_Final_ED.Properties.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Entrega Final ED/1.0.0": {
+        "runtime": {
+          "Entrega Final ED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrega Final ED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
